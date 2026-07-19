@@ -1,0 +1,16 @@
+#check -v
+
+PS C:\Users\abdel\Desktop\reactnative_note> node -v
+v25.2.1
+PS C:\Users\abdel\Desktop\reactnative_note> git -v
+git version 2.52.0.windows.1
+PS C:\Users\abdel\Desktop\reactnative_note> npm -v
+11.11.1
+
+#install react and expo tools
+
+extentions 
+
+#start index 
+ type :rnfe:
+
